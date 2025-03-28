@@ -1,0 +1,5 @@
+streamlit
+audio_recorder_streamlit
+streamlit-float
+cohere
+elevenlabs==0.2.27
